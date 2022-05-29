@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace folder_hierarchy_copy
+namespace Folder_hierarchy_copy
 {
-    public partial class Form1 : Form
+    public partial class select_pass_form : Form
     {
-        public Form1()
+        public select_pass_form()
         {
             InitializeComponent();
         }

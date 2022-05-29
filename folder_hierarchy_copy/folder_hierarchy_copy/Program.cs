@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace folder_hierarchy_copy
+namespace Folder_hierarchy_copy
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace folder_hierarchy_copy
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new select_pass_form());
         }
     }
 }
